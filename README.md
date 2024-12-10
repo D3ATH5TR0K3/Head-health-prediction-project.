@@ -57,4 +57,4 @@ age  sex  cp  trestbps  chol  fbs  restecg  thalach  exang  oldpeak  slope  \
 Results include metrics like accuracy, precision, recall, and visualizations of confusion matrices and ROC curves.
 
 ## Contributors
-- [Your Name]
+- Ranjan Hazra
