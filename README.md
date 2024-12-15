@@ -1,7 +1,7 @@
 
 # Heart Disease Prediction Project
 # Data Source
-The .csv file was provided by United Mentor.
+The .csv file was provided by Unified Mentor.
 This project demonstrates an analysis and prediction model for heart disease using Python. 
 It includes data preprocessing, visualization, and machine learning techniques.
 
